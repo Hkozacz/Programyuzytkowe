@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}Anio\IeC {\l }owie Piekie\IeC {\l }}{2}{section.1}
-\contentsline {section}{\numberline {2}Opis fabu\IeC {\l }y}{3}{section.2}
-\contentsline {section}{\numberline {3}Obsada}{3}{section.3}
-\contentsline {section}{\numberline {4}Nagrody i nominacje}{3}{section.4}
-\contentsline {section}{\numberline {5}Bibliografia}{3}{section.5}
